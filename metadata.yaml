@@ -1,5 +1,8 @@
 _repo: Ruth-Kertomus-tytoille_58906
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58906#Ruth-Kertomus-tytoille
 gutenberg_issued: '2019-02-17'
 gutenberg_type: Text
 identifiers:
